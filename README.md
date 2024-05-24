@@ -10,22 +10,40 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="margin: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="background-color:white; padding:5px;"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="margin: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="background-color:white; padding:5px;"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="margin: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="background-color:white; padding:5px;"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="margin: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="background-color:white; padding:5px;"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer" style="margin: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="background-color:white; padding:5px;"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="margin: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="background-color:white; padding:5px;"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="background-color:white; padding:5px;"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="margin: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="background-color:white; padding:5px;"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="background-color:white; padding:5px;"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer" style="margin: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="background-color:white; padding:5px;"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer" style="margin: 10px;"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="background-color:white; padding:5px;"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="background-color:white; padding:5px;"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="margin: 10px;"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="background-color:white; padding:5px;"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="margin: 10px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="background-color:white; padding:5px;"/> </a> 
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
 </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sans-byte&show_icons=true&locale=en&layout=compact&theme=slateorange&border_color=000000" alt="sans-byte" /></p>
 
