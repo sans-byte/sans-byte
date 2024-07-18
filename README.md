@@ -45,12 +45,6 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sans-byte&show_icons=true&locale=en&layout=compact&theme=slateorange&border_color=000000" alt="sans-byte" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sans-byte&show_icons=true&locale=en&theme=slateorange&border_color=000000" alt="sans-byte" /></p>
-
----
-
 I must confess, you might not see too many commits here because most of my work is committed to the company I work with. But rest assured, I'm always working on something exciting!
 
 Thank you for visiting my profile!
