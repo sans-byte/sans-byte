@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Sanskar Jain</h1>
+<h1 align="center">Helloww 😁 I'm Sanskar Jain</h1>
 <p align="left">A passionate lifelong learner and coding enthusiast, constantly exploring new frontiers in technology to create innovative solutions. I'm a full stack developer with expertise in web development and cloud technologies. I specialize in the MERN stack and am always on the lookout for opportunities to work on exciting new projects and create amazing tech.</p>
 
 📫 How to reach me **sanskarj15@gmail.com**
@@ -47,7 +47,8 @@
 <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
 </p>
 
-  
+
+Visit my portfolio : **sanskar.site**
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
