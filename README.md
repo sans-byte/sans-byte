@@ -1,6 +1,8 @@
 <h1 align="center">Helloww 😁 I'm Sanskar Jain</h1>
 <p align="left">A passionate lifelong learner and coding enthusiast, constantly exploring new frontiers in technology to create innovative solutions. I'm a full stack developer with expertise in web development and cloud technologies. I specialize in the MERN stack and am always on the lookout for opportunities to work on exciting new projects and create amazing tech.</p>
 
+[![An image of @sansbyte's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sansbyte)](https://holopin.io/@sansbyte)
+
 📫 How to reach me **sanskarj15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
